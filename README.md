@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Maelaf, a fresh graduate and a junior data engineer with various data engineering and machine learning projects under my belt
-<!--
+I'm Maelaf, a fresh graduate and a junior data engineer with various data engineering and machine learning projects under my belt and Open to work.
+
 **Maelaf/Maelaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about data science, data engineeging
 - 📫 How to reach me: 
 - ⚡ Fun fact: I love hiking
--->
+
