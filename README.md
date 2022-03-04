@@ -15,4 +15,5 @@ I'm Maelaf, a fresh graduate and a junior data engineer with various data engine
 
 - 📫 How to reach me: maelaf17@gmail.com  portfolio: https://sites.google.com/view/maelafestiphanos/home LinkedIn:https://www.linkedin.com/in/maelaf-e-tegegn-3783a0213/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maelaf)](https://github.com/Maelaf/github-readme-stats)
+[![Maelaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maelaf)](https://github.com/Maelaf/github-readme-stats)
+![Maelaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maelaf&show_icons=true)
