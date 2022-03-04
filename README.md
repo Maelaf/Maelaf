@@ -7,7 +7,7 @@ I'm Maelaf, a fresh graduate and a junior data engineer with various data engine
 
 - 👯 I’m looking to collaborate on data engineering and machine learning project, especaially on Computer Vision.
 
-- 👀 I'm enthusiastic about learning new technologies, in 2022 I've learnt AWS
+- 👀 I'm enthusiastic about learning new technologies, in 2022 I've learnt AWS and i'm continuing to add more skills
 
 - 💬 Ask me about data science, data engineering
 
